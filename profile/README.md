@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-Here's are some of my projects:-
+Hre I build things I’d personally love to use.
+
 
